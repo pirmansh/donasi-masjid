@@ -1,0 +1,16 @@
+
+.justify{
+    text-align: justify;
+}
+
+@media only screen and (max-width: 600px) {
+    .responsive {
+        font-size: small;
+    }
+    p{
+        font-size: small;
+    }
+    li{
+        font-size: small;
+    }
+}
