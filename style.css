@@ -2,6 +2,9 @@
 .justify{
     text-align: justify;
 }
+.pirmansyah{
+    color:#74c0fc;
+}
 
 @media only screen and (max-width: 600px) {
     .responsive {
